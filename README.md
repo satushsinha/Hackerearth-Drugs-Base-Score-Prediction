@@ -1,0 +1,1 @@
+The solution for the hackerearth problem to find the base score of drugs based on reviews by the patients and other factors, I applied a simple RNN model to feed the reviews of the patient and determine the base-score of drugs
